@@ -81,8 +81,7 @@ a {
 
 .results-performance {
   display: grid;
-  align-items: center;
-  justify-items: center;
+  align-content: center;
   gap: 0.875rem;
 }
 
@@ -90,6 +89,7 @@ a {
   font-size: 2rem;
   font-style: normal;
   font-weight: 700;
+  text-align: center;
   color: #ffffff;
 }
 
