@@ -1,4 +1,4 @@
-# Frontend Mentor - Results Summary Component solution
+# Frontend Mentor - Results Summary Component Solution
 
 ![](./design/desktop-preview.jpg)
 
