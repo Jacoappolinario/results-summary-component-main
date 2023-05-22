@@ -2,7 +2,7 @@
 
 ![](./design/desktop-preview.jpg)
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Results summary component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -22,7 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [GitHub Repository](https://github.com/Jacoappolinario)
-- Live Site URL: [QR Code Component Live Site](https://jacoappolinario.github.io/results-summary-component-main/)
+- Live Site URL: [Results Summary Component Live Site](https://jacoappolinario.github.io/results-summary-component-main/)
 
 ## My process
 
