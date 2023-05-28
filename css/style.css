@@ -217,7 +217,7 @@ a {
   background: linear-gradient(180deg, #7755ff 0%, #6943ff 0.01%, #2f2ce9 100%);
 }
 
-@media (max-width: 375px) {
+@media (max-width: 768px) {
   body {
     height: auto;
   }
