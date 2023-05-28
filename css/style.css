@@ -220,6 +220,7 @@ a {
 @media (max-width: 768px) {
   body {
     height: auto;
+    width: 100%;
   }
 
   .results-summary-content {
