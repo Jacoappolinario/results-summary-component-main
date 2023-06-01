@@ -220,11 +220,10 @@ a {
 @media (max-width: 768px) {
   body {
     height: auto;
-    width: 100%;
   }
 
   .results-summary-content {
-    grid-template-columns: 375px;
+    grid-template-columns: minmax(auto, 375px);
     border-radius: 0px;
   }
 
